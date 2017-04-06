@@ -1,0 +1,30 @@
+html{
+    margin: 0px;
+    padding: 0px;   
+}
+.loginbox{
+
+    margin: 100px auto;
+    width: 320 px;
+}
+.logoimg{
+    margin: 10px;
+    width: 20px;
+    height: 20px;
+}
+.bs-docs-header, .bs-docs-masthead {
+    position: relative;
+    padding: 40px 0;
+    background: #028c99;
+    text-align: center; 
+}
+.btn-primarymy {
+    color: #FFF;
+    background-color: #028c99;
+    border-color: #028c99;
+    border-top-color: rgb(2, 140, 153);
+    border-right-color: rgb(2, 140, 153);
+    border-bottom-color: rgb(2, 140, 153);
+    border-left-color: rgb(2, 140, 153);
+
+}
